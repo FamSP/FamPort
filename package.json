@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://FamSP.github.io/SappawatPort/",
+  "homepage": "https://FamSP.github.io/FamPort/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
