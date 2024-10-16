@@ -1,5 +1,6 @@
 import React from 'react'
 import avatar from '../assets/images/avatar.jpg'
+import CV from '../assets/Download/CV_Spaawat.pdf'
 
 const FeaturedBox = () => {
   return (
@@ -49,11 +50,11 @@ const FeaturedBox = () => {
         </a>
       </div>
       </div>
-
+    
       </div>
       
 
-      <div className='feature-image'>
+      <div className='featured-image'>
         <div className='image'>
           <img src={avatar} alt="avatar" />
         </div>

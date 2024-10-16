@@ -1,4 +1,5 @@
 import React from 'react';
+import cv_sappawat from '../assets/Download/CV_Spaawat.pdf';
 
 const Header = () => {
   const menuFunction = () => {
@@ -33,9 +34,11 @@ const Header = () => {
           </ul>
         </div>
         <div className="nav-button">
+          <a herf={cv_sappawat} target='_blank'>
           <button className='btn'>
             Download CV <i className='uil uil-import'></i>
           </button>
+          </a>
         </div>
         <div className='nav-menu-btn'>
           <i className='uil uil-bars' onClick={menuFunction}></i>

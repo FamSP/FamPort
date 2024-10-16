@@ -8,7 +8,6 @@ import Footer from './companent/Footer'
 import Typed from 'typed.js';
 import { useEffect } from 'react'
 import './App.css';
-import './index.css';
 
 function App() {
   const [count, setCount] = useState(0)
