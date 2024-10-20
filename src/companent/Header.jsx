@@ -34,7 +34,7 @@ const Header = () => {
           </ul>
         </div>
         <div className="nav-button">
-          <a herf={cv_sappawat} target='_blank'>
+          <a href={cv_sappawat} target='_blank'>
           <button className='btn'>
             Download CV <i className='uil uil-import'></i>
           </button>

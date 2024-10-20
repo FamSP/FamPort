@@ -21,7 +21,7 @@ const AboutBox = () => {
             of speaking and can understand the conversation in normal level.</p>
 
              <div className="about-btn">
-          <a herf={cv_sappawat} target='_blank'>
+          <a href={cv_sappawat} target='_blank'>
           <button className='btn'>
             Download CV <i className='uil uil-import'></i>
           </button>
